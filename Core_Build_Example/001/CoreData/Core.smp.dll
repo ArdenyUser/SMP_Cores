@@ -1,0 +1,5 @@
+# Refine to TEMP.
+
+def Coreinstructions(SMPCODE):
+  if SMPCODE == "1101":
+    print("HELLO")
